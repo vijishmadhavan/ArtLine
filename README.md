@@ -52,7 +52,7 @@ V, South Korean singer-songwriter.
 
 ## Cartoonize
 
-[Imgur](https://i.imgur.com/JQltbBH.jpg)
+![Imgur](https://i.imgur.com/JQltbBH.jpg)
 ![Imgur](https://i.imgur.com/CBvaHN4.jpg)     
 ![Imgur](https://i.imgur.com/qMN2YcY.jpg)
 
