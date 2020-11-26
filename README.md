@@ -1,10 +1,10 @@
 # ArtLine
 
-The main aim of the project is to create wonderful looking lineart portraits. 
+The main aim of the project is to create wonderful looking lineart portraits and cartoonize it. 
 
 Sounds Intresting, Lets see what it does.
 
-Most of them are random google images.
+
 
 ## Example Images
 
