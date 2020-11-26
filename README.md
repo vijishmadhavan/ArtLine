@@ -16,6 +16,6 @@ A sadhu (holy man) in Varanasi, India by Joel Santos.
 
 Keanu Reeves, Canadian actor.
 
-[Keanu](https://i.imgur.com/labkc8V.jpg)
+![Keanu](https://i.imgur.com/labkc8V.jpg)
 
 
