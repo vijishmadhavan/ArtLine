@@ -18,13 +18,17 @@ Keanu Reeves, Canadian actor.
 
 ![Keanu](https://i.imgur.com/labkc8V.jpg)
 
+Gal Gadot, Israeli actress.
+
+![Gal](https://i.imgur.com/bF91WY6.jpg)
+
 Most Creative Facial Hair at the 2019 Beard and Moustache Championships.
 
 ![Beard](https://i.imgur.com/yNtwLCJ.jpg)
 
-Gal Gadot, Israeli actress.
+Natalie Portman, Actress.
 
-![Gal](https://i.imgur.com/bF91WY6.jpg)
+![Natalie](https://i.imgur.com/pmaJ6fl.jpg)
 
 People's Sexiest Man Alive title  "Black Panther" star Michael B. Jordan.
 
