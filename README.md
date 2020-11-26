@@ -8,7 +8,7 @@ Sounds Intresting, Lets see what it does.
 
 1984 photograph “Afghan Girl” by Steve McCurry.
 
-[Afghan Girl](https://i.imgur.com/NDE3QW4.jpg)
+![Afghan Girl](https://i.imgur.com/NDE3QW4.jpg)
 
 
 
