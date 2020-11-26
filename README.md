@@ -42,3 +42,7 @@ People's Sexiest Man Alive title  "Black Panther" star Michael B. Jordan.
 
 ![Michael](https://i.imgur.com/apAGk7M.jpg)
 
+V, South Korean singer-songwriter.
+
+![V](https://i.imgur.com/egQRTYj.jpg)
+
