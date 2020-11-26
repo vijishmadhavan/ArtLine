@@ -22,4 +22,7 @@ Most Creative Facial Hair at the 2019 Beard and Moustache Championships.
 
 ![Beard](https://i.imgur.com/yNtwLCJ.jpg)
 
+People's Sexiest Man Alive title  "Black Panther" star Michael B. Jordan.
+
+![Michael](https://i.imgur.com/apAGk7M.jpg)
 
