@@ -4,6 +4,8 @@ The main aim of the project is to create wonderful looking lineart portraits.
 
 Sounds Intresting, Lets see what it does.
 
+Most of them are random google images.
+
 ## Example Images
 
 1984 photograph “Afghan Girl” by Steve McCurry.
