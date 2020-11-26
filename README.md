@@ -26,9 +26,9 @@ Most Creative Facial Hair at the 2019 Beard and Moustache Championships.
 
 ![Beard](https://i.imgur.com/yNtwLCJ.jpg)
 
-Natalie Portman, Actress.
+Model
 
-![Natalie](https://i.imgur.com/pmaJ6fl.jpg)
+![Model](https://i.imgur.com/RKTdhHc.jpg)
 
 Virat Kohli, Indian cricketer
 
@@ -42,11 +42,13 @@ People's Sexiest Man Alive title  "Black Panther" star Michael B. Jordan.
 
 ![Michael](https://i.imgur.com/apAGk7M.jpg)
 
+Natalie Portman, Actress.
+
+![Natalie](https://i.imgur.com/pmaJ6fl.jpg)
+
 V, South Korean singer-songwriter.
 
 ![V](https://i.imgur.com/egQRTYj.jpg)
 
-Model
 
-![Model](https://i.imgur.com/RKTdhHc.jpg)
 
