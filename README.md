@@ -52,6 +52,8 @@ V, South Korean singer-songwriter.
 
 ## Cartoonize
 
+**Lets cartoonize the lineart portraits, have a look at some pretty pictures.
+
 ![Imgur](https://i.imgur.com/JQltbBH.jpg)
 ![Imgur](https://i.imgur.com/CBvaHN4.jpg)     
 ![Imgur](https://i.imgur.com/qMN2YcY.jpg)
