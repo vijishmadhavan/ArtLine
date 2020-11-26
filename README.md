@@ -66,7 +66,7 @@ V, South Korean singer-songwriter.
 ### Dataset
 
 [APDrawing dataset](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/APDrawingDB.zip) 
-[Anime sketch colorization pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair/download)
+Anime sketch colorization pair -https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair/download
 
 
 
