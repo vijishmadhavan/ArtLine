@@ -2,7 +2,7 @@
 
 The main aim of the project is to create wonderful looking lineart portraits and cartoonize it. 
 
-Sounds Intresting, Lets see what it does.
+Sounds Intresting,let's get to the pictures!
 
 
 
