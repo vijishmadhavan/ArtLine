@@ -1,6 +1,6 @@
 # ArtLine
 
-The main aim of the project is to create wonderful looking lineart portraits and cartoonize it. 
+The main aim of the project is to create amazing lineart portraits and cartoonize it. 
 
 Sounds Intresting,let's get to the pictures!
 
@@ -62,5 +62,11 @@ V, South Korean singer-songwriter.
 ![Imgur](https://i.imgur.com/0AueOel.jpg)
 
 ## Technical Details
+
+### Dataset
+
+[APDrawing dataset](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/APDrawingDB.zip) 
+[Anime sketch colorization pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair/download)
+
 
 
