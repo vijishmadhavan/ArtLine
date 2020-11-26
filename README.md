@@ -22,6 +22,10 @@ Most Creative Facial Hair at the 2019 Beard and Moustache Championships.
 
 ![Beard](https://i.imgur.com/yNtwLCJ.jpg)
 
+Gal Gadot, Israeli actress.
+
+![Gal](https://i.imgur.com/bF91WY6.jpg)
+
 People's Sexiest Man Alive title  "Black Panther" star Michael B. Jordan.
 
 ![Michael](https://i.imgur.com/apAGk7M.jpg)
