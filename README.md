@@ -34,9 +34,9 @@ Virat Kohli, Indian cricketer
 
 ![Virat](https://i.imgur.com/jg76waU.jpg)
 
-Rihanna, Singer.
+Taylor Swift, American singer.
 
-![Rihanna](https://i.imgur.com/KLiF6kT.jpg)
+![Taylor](https://i.imgur.com/oZzJqw5.jpg)
 
 People's Sexiest Man Alive title  "Black Panther" star Michael B. Jordan.
 
