@@ -5,7 +5,6 @@ The main aim of the project is to create wonderful looking lineart portraits and
 Sounds Intresting,let's get to the pictures!
 
 
-
 ## Example Images
 
 1984 photograph “Afghan Girl” by Steve McCurry.
@@ -61,4 +60,7 @@ V, South Korean singer-songwriter.
 ![Imgur](https://i.imgur.com/qMN2YcY.jpg)
 ![Imgur](https://i.imgur.com/whumnDY.jpg)
 ![Imgur](https://i.imgur.com/0AueOel.jpg)
+
+## Technical Details
+
 
