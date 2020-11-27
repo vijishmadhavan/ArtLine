@@ -65,7 +65,10 @@ The amazing results that the model has produced has a secret sauce to it. The in
 
 The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recogonize what's what!!. This secret sauce helped in fixing the issue and generating wonderfull output. 
 
-The next step was to deal with shadows in the photo, which the model still struggles. 
+## Cartoonize
+
+Cartoonizing the line art was another huge task. This model also struggled with poses of the person in photo, differentiating teeth and lips and to leave the eyes as white as it is. The trick behind the success was to train the model with anime pairs before actually introducing the face portraits. Anime pairs helped the model to understand colours better, kinda transfer learning!!
+The face colour portrait is custom dataset made by me. The model with learning it has with anime dataset produced great results on most of the poses, it even does great with eyes and lips too. 
 
 ## Technical Details
 
