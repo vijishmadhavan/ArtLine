@@ -63,20 +63,22 @@ V, South Korean singer-songwriter.
 
 ## Technical Details
 
-### Dataset
-
-[APDrawing dataset](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/APDrawingDB.zip) 
-
-Anime sketch colorization pair 
-
-APDrawing data set consits of mostly close-up portraits so the model would struggle to recogonize cloths,hands etc. For this purpose selected images from Anime sketch colorization pair were used.
-
 **Self-Attention Generative Adversarial Network** (https://arxiv.org/abs/1805.08318). Generator is pretrained UNET with spectral normalization and self-attention.Someting that I got from Jason Antic's DeOldify(https://github.com/jantic/DeOldify). I have to say this a made huge difference all of a sudden I started gettiong proper details around the facial features.
 
 **Progressive Growing of GANs** (https://arxiv.org/abs/1710.10196). Progressive GANS takes this idea of gradually increasing the image size, In this project the image size were gradually increased and learning rates were adjusted. Thanks to fast.ai for intrdoucing me to Progressive GANS, this helped in generating high quality output.
 
 
 
+
+
+
+## Dataset
+
+[APDrawing dataset](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/APDrawingDB.zip) 
+
+Anime sketch colorization pair dataset
+
+APDrawing data set consits of mostly close-up portraits so the model would struggle to recogonize cloths,hands etc. For this purpose selected images from Anime sketch colorization pair were used.
 
 
 
