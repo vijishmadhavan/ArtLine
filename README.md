@@ -63,14 +63,11 @@ V, South Korean singer-songwriter.
 
 ## Technical Details
 
-**Self-Attention Generative Adversarial Network** (https://arxiv.org/abs/1805.08318). Generator is pretrained UNET with spectral normalization and self-attention.Someting that I got from Jason Antic's DeOldify(https://github.com/jantic/DeOldify). I have to say this a made huge difference all of a sudden I started gettiong proper details around the facial features.
+* **Self-Attention Generative Adversarial Network** (https://arxiv.org/abs/1805.08318). Generator is pretrained UNET with spectral normalization and self-attention.Someting that I got from Jason Antic's DeOldify(https://github.com/jantic/DeOldify). I have to say this a made huge difference, all of a sudden I started getting proper details around the facial features.
 
-**Progressive Growing of GANs** (https://arxiv.org/abs/1710.10196). Progressive GANS takes this idea of gradually increasing the image size, In this project the image size were gradually increased and learning rates were adjusted. Thanks to fast.ai for intrdoucing me to Progressive GANS, this helped in generating high quality output.
+* **Progressive Growing of GANs** (https://arxiv.org/abs/1710.10196). Progressive GANS takes this idea of gradually increasing the image size, In this project the image size were gradually increased and learning rates were adjusted. Thanks to fast.ai for intrdoucing me to Progressive GANS, this helped in generating high quality output.
 
-
-
-
-
+* **Generator Loss** :  Perceptual Loss/Feature Loss based on VGG16. (https://arxiv.org/pdf/1603.08155.pdf)
 
 ## Dataset
 
