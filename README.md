@@ -61,6 +61,12 @@ V, South Korean singer-songwriter.
 ![Imgur](https://i.imgur.com/whumnDY.jpg)
 ![Imgur](https://i.imgur.com/zjpLHQW.jpg)
 
+The amazing results that the model has produced has a secret sauce to it. The intial model could'nt create the sort of output I was expecting, it mostly struggled with recogonizing facial features. First success in the project came when the model recogonized facial structure. Even though (https://github.com/yiranran/APDrawingGAN) produced great results it had limitations like (frontal face photo similar to ID photo, preferably with clear face features, no glasses and no long fringe.) I wanted to break-in and produce results that could recogonize any pose. Achieving proper lines around the face, eyes, lips and nose depends on data u give to the model. APDrawing dataset alone was not enough so I had to combine selected photos from Anime sketch colorization pair dataset.
+
+The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recogonize what's what!!. This secret sauce helped in fixing the issue and generating wonderfull output. 
+
+The next step was to deal with shadows in the photo, which the model still struggles. 
+
 ## Technical Details
 
 * **Self-Attention Generative Adversarial Network** (https://arxiv.org/abs/1805.08318). Generator is pretrained UNET with spectral normalization and self-attention.Something that I got from Jason Antic's DeOldify(https://github.com/jantic/DeOldify). I have to say this a made huge difference, all of a sudden I started getting proper details around the facial features.
