@@ -2,7 +2,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/ArtLine/blob/main/ArtLine(Try_it_on_Colab).ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/ArtLine/blob/master/ArtLine(Try_it_on_Colab).ipynb)
 
 The main aim of the project is to create amazing line art portraits. 
 
