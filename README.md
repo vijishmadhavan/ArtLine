@@ -104,6 +104,7 @@ I hope I was clear, going forward would like to improve the model further as it 
 
 ## Getting Started Yourself
 
+The easiest way to get started is to simply try out on Colab: https://colab.research.google.com/drive/1x0MLgb0YG86QPepugOOsIxy0gkUsFrFV?usp=sharing
 
 
 
