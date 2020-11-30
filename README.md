@@ -2,7 +2,7 @@
 
 The main aim of the project is to create amazing line art portraits. 
 
-[Imgur](https://i.imgur.com/ittgYum.png)
+![ArtLine](https://i.imgur.com/ittgYum.png)
 
 Sounds Intresting,let's get to the pictures!
 
