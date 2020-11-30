@@ -1,6 +1,6 @@
 # ArtLine
 
-The main aim of the project is to create amazing lineart portraits and cartoonize it. 
+The main aim of the project is to create amazing lineart portraits. 
 
 Sounds Intresting,let's get to the pictures!
 
@@ -53,7 +53,7 @@ V, South Korean singer-songwriter.
 
 ## Cartoonize
 
-**Lets cartoonize the lineart portraits, have a look at some pretty pictures.**
+**Lets cartoonize the lineart portraits, its still in the making but have a look at some pretty pictures.**
 
 ![Imgur](https://i.imgur.com/JQltbBH.jpg)
 ![Imgur](https://i.imgur.com/CBvaHN4.jpg)     
@@ -66,11 +66,6 @@ V, South Korean singer-songwriter.
 The amazing results that the model has produced has a secret sauce to it. The intial model could'nt create the sort of output I was expecting, it mostly struggled with recogonizing facial features. First success in the project came when the model recogonized facial structure. Even though (https://github.com/yiranran/APDrawingGAN) produced great results it had limitations like (frontal face photo similar to ID photo, preferably with clear face features, no glasses and no long fringe.) I wanted to break-in and produce results that could recogonize any pose. Achieving proper lines around the face, eyes, lips and nose depends on the data u give the model. APDrawing dataset alone was not enough so I had to combine selected photos from Anime sketch colorization pair dataset. The combined dataset helped a bit, but nothing impressive. So here comes the idea of "blended dataset".
 
 The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recogonize what's what!!. This secret sauce helped in fixing the issue and generating wonderfull output. 
-
-## Cartoonize
-
-Cartoonizing the line art was another huge task. This model also struggled with poses of the person in photo, differentiating teeth and lips and to leave the eyes as white as it is. The trick behind the success was to train the model with anime pairs before actually introducing the face portraits. Anime pairs helped the model to understand colours better, kinda transfer learning!!
-The face colour portrait is custom dataset made by me. The model trained on anime dataset was trained further with portrait photo pairs, this helped to produce amazing output, it even does great with eyes and lips too. 
 
 ## Technical Details
 
@@ -93,7 +88,9 @@ APDrawing data set consits of mostly close-up portraits so the model would strug
 
 ## Going Forward
 
-I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds. Cartoonizing the image was never part of the project but somehow it came up and it did okay!! still lots to improve. 
+I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds. Cartoonizing the image was never part of the project but somehow it came up and it did okay!! still lots to improve. Ill release the cartoonize model when it looks impressive enough to show off.
+
+*I will be contantly upgrading the project for the foreseeable future.
 
 
 
