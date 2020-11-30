@@ -90,7 +90,7 @@ APDrawing data set consits of mostly close-up portraits so the model would strug
 
 I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds. Cartoonizing the image was never part of the project but somehow it came up and it did okay!! still lots to improve. Ill release the cartoonize model when it looks impressive enough to show off.
 
-*I will be contantly upgrading the project for the foreseeable future.
+*I will be contantly upgrading the project for the foreseeable future.*
 
 
 
