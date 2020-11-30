@@ -1,7 +1,6 @@
 # ArtLine
 
-The main aim of the project is to create amazing lineart portraits. 
-
+The main aim of the project is to create amazing line art portraits. 
 
 Sounds Intresting,let's get to the pictures!
 
