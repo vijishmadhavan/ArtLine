@@ -2,6 +2,8 @@
 
 The main aim of the project is to create amazing lineart portraits. 
 
+![ArtLine](https://i.imgur.com/2Ih2l3B.png)
+
 Sounds Intresting,let's get to the pictures!
 
 
