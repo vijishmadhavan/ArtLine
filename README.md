@@ -6,7 +6,7 @@ The main aim of the project is to create amazing line art portraits.
 
 ![ArtLine](https://i.imgur.com/ittgYum.png)
 
-Sounds Intresting,let's get to the pictures!
+**Sounds Intresting,let's get to the pictures!**
 
 
 ## Example Images
