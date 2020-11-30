@@ -71,7 +71,7 @@ V, South Korean singer-songwriter.
 
 The amazing results that the model has produced has a secret sauce to it. The initial model couldn't create the sort of output I was expecting, it mostly struggled with recognizing facial features. First success in the project came when the model recognized facial structure. Even though (https://github.com/yiranran/APDrawingGAN) produced great results it had limitations like (frontal face photo similar to ID photo, preferably with clear face features, no glasses and no long fringe.) I wanted to break-in and produce results that could recognize any pose. Achieving proper lines around the face, eyes, lips and nose depends on the data you give the model. APDrawing dataset alone was not enough so I had to combine selected photos from Anime sketch colorization pair dataset. The combined dataset helped a bit, but nothing impressive. So here comes the idea of "blended dataset".
 
-The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recogonize what's what!!. This secret sauce helped in fixing the issue and generating wonderfull output. 
+The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recognize what's what!!. This secret sauce helped in fixing the issue and generating wonderful output. 
 
 ## Technical Details
 
@@ -83,7 +83,7 @@ The success came in with the idea of generating a blended dataset, i.e. to combi
 
 **Surprise!! No critic,No GAN. GAN did not make much of a difference so I was happy with No GAN.**
 
-The mission was to create something that converts any personal photo into an line art. The initial efforts has helped to recogonize lines but still the model has to improve a lot with shadows and clothes. All my efforts are to improve the model and make line art a click away.
+The mission was to create something that converts any personal photo into a line art. The initial efforts have helped to recognize lines, but still the model has to improve a lot with shadows and clothes. All my efforts are to improve the model and make line art a click away.
 
 ![Imgur](https://i.imgur.com/fhUi3uv.jpg)
 
@@ -98,7 +98,7 @@ APDrawing data set consits of mostly close-up portraits so the model would strug
 
 ## Going Forward
 
-I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds(Im creating a custom dataset to adress this issue). Cartoonizing the image was never part of the project but somehow it came up and it did okay!! still lots to improve. Ill release the cartoonize model when it looks impressive enough to show off.
+I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds(I'm creating a custom dataset to address this issue). Cartoonizing the image was never part of the project, but somehow it came up and it did okay!! Still lots to improve. Ill release the cartoonize model when it looks impressive enough to show off.
 
 *I will be contantly upgrading the project for the foreseeable future.*
 
