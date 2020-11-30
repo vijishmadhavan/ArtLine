@@ -115,6 +115,12 @@ This project is built around the wonderful Fast.AI library.
 
 ### Limitations
 
-Getting great output depends on Lighting, Backgrounds etc. You'll mostly get good results the first go but there are chances for issues as well.  
+- Getting great output depends on Lighting, Backgrounds,Shadows and the quality of photos. You'll mostly get good results in the first go but there are chances for issues as well. The model is not there yet, it still needs to be tweaked to reach out to all the consumers. It might be useful for "AI Artisits/ Artists who can bring changes to the final output.
+
+- The model confuses shadows with hair, something that I'm trying to solve.
+
+
+
+
 
 
