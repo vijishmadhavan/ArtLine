@@ -106,8 +106,15 @@ I hope I was clear, going forward would like to improve the model further as it 
 
 The easiest way to get started is to simply try out on Colab: https://colab.research.google.com/drive/1x0MLgb0YG86QPepugOOsIxy0gkUsFrFV?usp=sharing
 
+### Installation Details
 
+This project is built around the wonderful Fast.AI library.
 
+- **fastai==1.0.61** (and its dependencies).  Please dont install the higher versions
+- **PyTorch 1.6.0** Please don't install the higher versions
 
+### Limitations
+
+Getting great output depends on Lighting, Backgrounds etc. You'll mostly get good results the first go but there are chances for issues as well.  
 
 
