@@ -78,6 +78,10 @@ The success came in with the idea of generating a blended dataset, i.e. to combi
 
 **Surprise!! No critic,No GAN. GAN did not make much of a difference so I was happy with No GAN.**
 
+The mission was to create something that converts any personal photo into an line art. The initial efforts has helped to recogonize lines but still the model has to improve a lot with shadows and clothes. All my efforts are to improve the model and make line art a click away.
+
+![Imgur](https://i.imgur.com/fhUi3uv.jpg)
+
 ## Dataset
 
 [APDrawing dataset](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/APDrawingDB.zip) 
@@ -89,9 +93,11 @@ APDrawing data set consits of mostly close-up portraits so the model would strug
 
 ## Going Forward
 
-I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds. Cartoonizing the image was never part of the project but somehow it came up and it did okay!! still lots to improve. Ill release the cartoonize model when it looks impressive enough to show off.
+I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds(Im creating a custom dataset to adress this issue). Cartoonizing the image was never part of the project but somehow it came up and it did okay!! still lots to improve. Ill release the cartoonize model when it looks impressive enough to show off.
 
 *I will be contantly upgrading the project for the foreseeable future.*
+
+## Getting Started Yourself
 
 
 
