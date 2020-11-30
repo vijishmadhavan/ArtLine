@@ -91,6 +91,12 @@ Anime sketch colorization pair dataset
 APDrawing data set consits of mostly close-up portraits so the model would struggle to recogonize cloths,hands etc. For this purpose selected images from Anime sketch colorization pair were used.
 
 
+## Going Forward
+
+I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds. Cartoonizing the image was never part of the project but somehow it came up and it did okay!! still lots to improve. 
+
+
+
 
 
 
