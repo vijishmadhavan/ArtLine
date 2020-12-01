@@ -63,9 +63,11 @@ V, South Korean singer-songwriter.
 **Lets cartoonize the lineart portraits, its still in the making but have a look at some pretty pictures.**
 
 Skrillex , American DJ
+
 ![Imgur](https://i.imgur.com/BJW8beC.jpg)
 
 Tom Hanks, Actor
+
 ![Imgur](https://i.imgur.com/hvkDTZR.jpg)
 
 
