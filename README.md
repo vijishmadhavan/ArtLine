@@ -10,6 +10,12 @@ The main aim of the project is to create amazing line art portraits.
 
 ![ArtLine](https://i.imgur.com/ittgYum.png)
 
+## Highlights
+
+- [Example Images](#Example-Images)
+- [Cartoonize](#Cartoonize)
+- [Movie Poster created using ArtLine](#Movie-Poster)
+- [Technical Details](#Technical)
 
 
 ## Example Images
@@ -77,7 +83,7 @@ The amazing results that the model has produced has a secret sauce to it. The in
 
 The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recognize what's what!!. This secret sauce helped in fixing the issue and generating wonderful output. 
 
-#### Movie Poster created using ArtLine.
+## Movie Poster created using ArtLine.
 
 The movie poster was created using ArtLine in no time , it's not as good as it should be but I'm not an artist.
 
