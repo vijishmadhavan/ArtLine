@@ -119,13 +119,23 @@ This project is built around the wonderful Fast.AI library.
 
 ### Limitations
 
-- Getting great output depends on Lighting, Backgrounds,Shadows and the quality of photos. You'll mostly get good results in the first go but there are chances for issues as well. The model is not there yet, it still needs to be tweaked to reach out to all the consumers. It might be useful for "AI Artisits/ Artists who can bring changes to the final output.
+- Getting great output depends on Lighting, Backgrounds,Shadows and the quality of photos. You'll mostly get good results in the first go but there are chances for issues as     well. The model is not there yet, it still needs to be tweaked to reach out to all the consumers. It might be useful for "AI Artisits/ Artists who can bring changes to the final output.
 
 - The model confuses shadows with hair, something that I'm trying to solve.
+
+- I'm not a coder, bear with me for the bad code and documentation. Will make sure that I improve with upcoming updates.
 
 ### Updates
 
 [Get more updates on Twitter](https://twitter.com/Vijish68859437)
+
+Mail me @ vijishmadhavan@gmail.com
+
+### Acknowledgments
+
+- The code is inspired from Fast.AI's Lesson 7 and DeOldify (https://github.com/jantic/DeOldify), Please have look at the Lesson notebook (https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-superres-gan.ipynb)
+
+- Thanks to (https://github.com/yiranran/APDrawingGAN) for the amazing dataset.
 
 
 
