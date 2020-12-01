@@ -123,7 +123,7 @@ This project is built around the wonderful Fast.AI library.
 
 ### Updates
 
-Get more updates on Twitter <img src="resource_images/Twitter_Social_Icon_Rounded_Square_Color.svg" width="16">](https://twitter.com/Vijish68859437).
+[Get more updates on Twitter <img src="result_images/Twitter_Social_Icon_Rounded_Square_Color.svg" width="16">](https://twitter.com/Vijish68859437)
 
 
 
