@@ -77,6 +77,13 @@ The amazing results that the model has produced has a secret sauce to it. The in
 
 The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recognize what's what!!. This secret sauce helped in fixing the issue and generating wonderful output. 
 
+#### Movie Poster created using ArtLine.
+
+The poster was created using ArtLine in no time ,its not good as it should be but I'm not an artist.
+
+![Poster](https://i.imgur.com/TmkTOLI.jpg)
+
+
 ## Technical Details
 
 * **Self-Attention Generative Adversarial Network** (https://arxiv.org/abs/1805.08318). Generator is pretrained UNET with spectral normalization and self-attention. Something that I got from Jason Antic's DeOldify(https://github.com/jantic/DeOldify), this made a huge difference, all of a sudden I started getting proper details around the facial features.
