@@ -123,7 +123,7 @@ This project is built around the wonderful Fast.AI library.
 
 ### Updates
 
-[Get more updates on Twitter (https://twitter.com/Vijish68859437)
+[Get more updates on Twitter](https://twitter.com/Vijish68859437)
 
 
 
