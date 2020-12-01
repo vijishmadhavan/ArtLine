@@ -87,7 +87,7 @@ The success came in with the idea of generating a blended dataset, i.e. to combi
 
 The movie poster was created using ArtLine in no time , it's not as good as it should be but I'm not an artist.
 
-![Poster](https://i.imgur.com/TmkTOLI.jpg)
+![Poster](https://i.imgur.com/RvTTxdI.jpg)
 
 
 ## Technical Details
