@@ -14,8 +14,8 @@ The main aim of the project is to create amazing line art portraits.
 
 - [Example Images](#Example-Images)
 - [Cartoonize](#Cartoonize)
-- [Movie Poster created using ArtLine](#Movie-Poster)
-- [Technical Details](#Technical)
+- [Movie Poster created using ArtLine](#Movie-Poster-created-using-ArtLine)
+- [Technical Details](#Technical-Details)
 
 
 ## Example Images
