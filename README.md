@@ -54,9 +54,9 @@ Natalie Portman, Actress.
 
 ![Natalie](https://i.imgur.com/pmaJ6fl.jpg)
 
-V, South Korean singer-songwriter.
+bohemian rhapsody movie , Rami Malek American actor
 
-![V](https://i.imgur.com/egQRTYj.jpg)
+![bohemian](https://i.imgur.com/od6IA08.jpg)
 
 ## Cartoonize
 
