@@ -34,7 +34,7 @@ Keanu Reeves, Canadian actor.
 
 Gal Gadot, Israeli actress.
 
-![Gal](https://i.imgur.com/bF91WY6.jpg)
+![Gal](https://i.imgur.com/UiD4Tnh.jpg)
 
 Most Creative Facial Hair at the 2019 Beard and Moustache Championships.
 
