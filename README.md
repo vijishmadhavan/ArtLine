@@ -150,7 +150,9 @@ Mail me @ vijishmadhavan@gmail.com
 
 - Thanks to (https://github.com/yiranran/APDrawingGAN) for the amazing dataset.
 
+## License
 
+All code in this repository is under the MIT license as specified by the LICENSE file.
 
 
 
