@@ -142,6 +142,8 @@ This project is built around the wonderful Fast.AI library.
 
 - The model confuses shadows with hair, something that I'm trying to solve.
 
+- It does bad with low quality images(below 500px).
+
 - I'm not a coder, bear with me for the bad code and documentation. Will make sure that I improve with upcoming updates.
 
 ### Updates
