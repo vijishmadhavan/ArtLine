@@ -40,9 +40,9 @@ Most Creative Facial Hair at the 2019 Beard and Moustache Championships.
 
 ![Beard](https://i.imgur.com/yNtwLCJ.jpg)
 
-Model
+Alita: Battle Angel
 
-![Model](https://i.imgur.com/RKTdhHc.jpg)
+![Alita](https://i.imgur.com/3gcBKq2.jpg)
 
 Virat Kohli, Indian cricketer
 
