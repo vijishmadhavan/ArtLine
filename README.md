@@ -60,9 +60,10 @@ Natalie Portman, Actress.
 
 ![Natalie](https://i.imgur.com/pmaJ6fl.jpg)
 
-Joaquin Phoenix, Actor
+Beyoncé, American singer
 
-![Joaquin](https://i.imgur.com/E8daTYp.jpg)
+![Beyoncé](https://i.imgur.com/QalvHKS.jpg)
+
 
 bohemian rhapsody movie , Rami Malek American actor
 
