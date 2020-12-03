@@ -52,9 +52,9 @@ Taylor Swift, American singer.
 
 ![Taylor](https://i.imgur.com/oZzJqw5.jpg)
 
-People's Sexiest Man Alive title  "Black Panther" star Michael B. Jordan.
+Steph Curry and Seth Curry, Basketball
 
-![Michael](https://i.imgur.com/apAGk7M.jpg)
+![Curry](https://i.imgur.com/mfWI0e7.jpg)
 
 Natalie Portman, Actress.
 
