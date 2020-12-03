@@ -24,8 +24,6 @@ The main aim of the project is to create amazing line art portraits.
 
 ![Afghan Girl](https://i.imgur.com/NDE3QW4.jpg)
 
-A sadhu (holy man) in Varanasi, India by Joel Santos.
-
 Friends, TV show.
 
 ![Friends](https://i.imgur.com/x3vbPys.jpg)
@@ -87,9 +85,7 @@ Tom Hanks, Actor
 
 ## Line Art
 
-The amazing results that the model has produced has a secret sauce to it. The initial model couldn't create the sort of output I was expecting, it mostly struggled with recognizing facial features. Even though (https://github.com/yiranran/APDrawingGAN) produced great results it had limitations like (frontal face photo similar to ID photo, preferably with clear face features, no glasses and no long fringe.) I wanted to break-in and produce results that could recognize any pose. Achieving proper lines around the face, eyes, lips and nose depends on the data you give the model. APDrawing dataset alone was not enough so I had to combine selected photos from Anime sketch colorization pair dataset. The combined dataset helped a bit, but nothing impressive. So here comes the idea of **"blended dataset"**.
-
-The success came in with the idea of generating a blended dataset, i.e. to combine the pair. I did not find any paper or projects doing it, the idea is kind of giving a hint to the model to recognize what's what!!. This secret sauce helped in fixing the issue and generating wonderful output. 
+The amazing results that the model has produced has a secret sauce to it. The initial model couldn't create the sort of output I was expecting, it mostly struggled with recognizing facial features. Even though (https://github.com/yiranran/APDrawingGAN) produced great results it had limitations like (frontal face photo similar to ID photo, preferably with clear face features, no glasses and no long fringe.) I wanted to break-in and produce results that could recognize any pose. Achieving proper lines around the face, eyes, lips and nose depends on the data you give the model. APDrawing dataset alone was not enough so I had to combine selected photos from Anime sketch colorization pair dataset. The combined dataset helped the model to learn the lines better.
 
 ## Movie Poster created using ArtLine.
 
