@@ -26,7 +26,10 @@ The main aim of the project is to create amazing line art portraits.
 
 A sadhu (holy man) in Varanasi, India by Joel Santos.
 
-![sadhu](https://i.imgur.com/PXLTBbJ.jpg)
+Friends, TV show.
+
+![Friends](https://i.imgur.com/x3vbPys.jpg)
+
 
 Keanu Reeves, Canadian actor.
 
