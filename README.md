@@ -38,9 +38,9 @@ Gal Gadot, Israeli actress.
 
 ![Gal](https://i.imgur.com/UiD4Tnh.jpg)
 
-Most Creative Facial Hair at the 2019 Beard and Moustache Championships.
+Beardo
 
-![Beard](https://i.imgur.com/yNtwLCJ.jpg)
+![Imgur](https://i.imgur.com/VVza8jp.jpg)
 
 Alita: Battle Angel
 
