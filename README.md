@@ -20,9 +20,10 @@ The main aim of the project is to create amazing line art portraits.
 
 ## Example Images
 
-1984 photograph “Afghan Girl” by Steve McCurry.
+bohemian rhapsody movie , Rami Malek American actor
 
-![Afghan Girl](https://i.imgur.com/NDE3QW4.jpg)
+![bohemian](https://i.imgur.com/od6IA08.jpg)
+
 
 Friends, TV show.
 
@@ -57,18 +58,17 @@ Steph Curry and Seth Curry, Basketball
 
 ![Curry](https://i.imgur.com/mfWI0e7.jpg)
 
-Natalie Portman, Actress.
+Pexels Portrait, Model
 
-![Natalie](https://i.imgur.com/pmaJ6fl.jpg)
+![Imgur](https://i.imgur.com/NMaPOiE.jpg)
 
 Beyoncé, American singer
 
 ![Beyoncé](https://i.imgur.com/QalvHKS.jpg)
 
+Pexels Portrait, Beard Man
 
-bohemian rhapsody movie , Rami Malek American actor
-
-![bohemian](https://i.imgur.com/od6IA08.jpg)
+![Imgur](https://i.imgur.com/NTi2GRA.jpg)
 
 ## Cartoonize
 
