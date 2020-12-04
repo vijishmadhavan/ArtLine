@@ -34,9 +34,9 @@ Keanu Reeves, Canadian actor.
 
 ![Keanu](https://i.imgur.com/labkc8V.jpg)
 
-Gal Gadot, Israeli actress.
+Photo by Anna Shvets from Pexels
 
-![Gal](https://i.imgur.com/UiD4Tnh.jpg)
+![Imgur](https://i.imgur.com/sRvyg8V.jpg)
 
 Beardo
 
@@ -66,7 +66,7 @@ Beyoncé, American singer
 
 ![Beyoncé](https://i.imgur.com/QalvHKS.jpg)
 
-Pexels Portrait, Beard Man
+Photo by Tim Savage from Pexels
 
 ![Imgur](https://i.imgur.com/NTi2GRA.jpg)
 
