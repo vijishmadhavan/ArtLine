@@ -54,9 +54,9 @@ Taylor Swift, American singer.
 
 ![Taylor](https://i.imgur.com/oZzJqw5.jpg)
 
-Steph Curry and Seth Curry, Basketball
+Interstellar
 
-![Curry](https://i.imgur.com/mfWI0e7.jpg)
+![Interstellar](https://i.imgur.com/xiuwDGd.jpg)
 
 Pexels Portrait, Model
 
