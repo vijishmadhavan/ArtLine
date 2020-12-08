@@ -38,9 +38,9 @@ Photo by Anna Shvets from Pexels
 
 ![Imgur](https://i.imgur.com/sRvyg8V.jpg)
 
-Beardo
+Hrithik Roshan
 
-![Imgur](https://i.imgur.com/VVza8jp.jpg)
+![Hrithik](https://i.imgur.com/U1sktwM.jpg)
 
 Alita: Battle Angel
 
