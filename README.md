@@ -10,9 +10,9 @@ The main aim of the project is to create amazing line art portraits.
 
 ![ArtLine](https://i.imgur.com/ittgYum.png)
 
-Instructions on how to use the Colabs above have been kindly provided in video tutorial form by Bhavesh Bhatt. It's great! Click video image below to watch.
+Instructions on how to use the Colabs above have been kindly provided in video tutorial form by Bhavesh Bhatt. Click video image below to watch.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ULqlp6Btk2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://i3.ytimg.com/vi/ULqlp6Btk2w/hqdefault.jpg)](https://www.youtube.com/watch?v=ULqlp6Btk2w&t=324s)
 
 ## Highlights
 
