@@ -11,7 +11,11 @@ The main aim of the project is to create amazing line art portraits.
 ![ArtLine](https://i.imgur.com/ittgYum.png)
 
 Instructions on how to use the Colabs above have been kindly provided in video tutorial form by Bhavesh Bhatt. Click video image below to watch.
+
+
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(Try_it_on_Colab).ipynb)
+
+
 [![](http://i3.ytimg.com/vi/ULqlp6Btk2w/hqdefault.jpg)](https://www.youtube.com/watch?v=ULqlp6Btk2w&t=324s)
 
 ## Highlights
