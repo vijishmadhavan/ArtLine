@@ -11,7 +11,7 @@ The main aim of the project is to create amazing line art portraits.
 
 
 
-**Instructions on how to use the Colab above have been kindly provided in video tutorial form by Bhavesh Bhatt. Click video image below to watch.**
+**Click on the below image to know more about colab demo, credits to Bhavesh Bhatt for the amazing Youtube video.**
 
 [![](https://i.imgur.com/ittgYum.png)](https://www.youtube.com/watch?v=ULqlp6Btk2w&t=324s)
 
