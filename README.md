@@ -6,9 +6,15 @@ The main aim of the project is to create amazing line art portraits.
 
 **Sounds Intresting,let's get to the pictures!!**
 
+**Aspect ratio issue solved, Check colab link below.**
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
+
+
+Croped Images (500px * 500 px)
+
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(Try_it_on_Colab).ipynb)
-
 
 
 **Click on the below image to know more about colab demo, credits to Bhavesh Bhatt for the amazing Youtube video.**
