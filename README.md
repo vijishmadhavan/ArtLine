@@ -8,9 +8,6 @@ The main aim of the project is to create amazing line art portraits.
 
 
 
-Croped Images (500px * 500 px)
-
-
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(Try_it_on_Colab).ipynb)
 
 
