@@ -7,9 +7,14 @@ The main aim of the project is to create amazing line art portraits.
 **Sounds Intresting,let's get to the pictures!!**
 
 
+**Model-(Smooth)**
+
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(Try_it_on_Colab).ipynb)
 
+**Model-(Quality)**
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
 
 **Click on the below image to know more about colab demo, credits to Bhavesh Bhatt for the amazing Youtube video.**
 
