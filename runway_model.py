@@ -53,7 +53,7 @@ class FeatureLoss(nn.Module):
 
 
 
-@runway.setup(options={'checkpoint': runway.file(extension='.pkl')})
+@runway.setup(options={'checkpoint': runway.file(extension='.pkl',description='checkpoint file')})
 def setup(opts):
     path = Path(".")
     learn=load_learner(path, opts['checkpoint'])
