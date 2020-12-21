@@ -1,6 +1,5 @@
 import runway
 import numpy as np
-from PIL import Image
 import argparse
 import torch
 from torchvision import transforms
@@ -11,10 +10,8 @@ from fastai.utils.mem import *
 from fastai.vision import open_image, load_learner, image, torch
 import numpy as np
 import urllib.request
-import PIL.Image
 from io import BytesIO
 import torchvision.transforms as T
-from PIL import Image
 import requests
 from io import BytesIO
 import fastai
@@ -23,9 +20,9 @@ from fastai.utils.mem import *
 from fastai.vision import open_image, load_learner, image, torch
 import numpy as np
 import urllib.request
-import PIL.Image
 from io import BytesIO
 import torchvision.transforms as T
+import PIL 
 
 class FeatureLoss(nn.Module):
     def __init__(self, m_feat, layer_ids, layer_wgts):
@@ -58,15 +55,21 @@ class FeatureLoss(nn.Module):
 
 @runway.setup(options={'checkpoint': runway.file(extension='.pkl')})
 def setup(opts):
-    learn=load_learner(opts['checkpoint'])
+    path = Path(".")
+    learn=load_learner(path, opts['checkpoint'])
     return learn
 
 
 @runway.command('translate', inputs={'source_imgs': runway.image(description='input image to be translated'),}, outputs={'image': runway.image(description='output image containing the translated result')})
 def translate(learn, inputs):
-
+    # raise Exception(type(input['source_imgs']))
     img_t = T.ToTensor()(inputs['source_imgs'])
     img_fast = Image(img_t)
+    # raise Exception(type(img_fast))
     p,img_hr,b = learn.predict(img_fast)
-    return Image.fromarray(img_hr)
+    # fastaiImage = Image(img_hr)
+    return transforms.ToPILImage()(img_hr).convert("RGB")
+
+if __name__ == '__main__':
+    runway.run(port=8889)
 
