@@ -70,3 +70,5 @@ def translate(learn, inputs):
     img_fast = Image(img_t)
     p,img_hr,b = learn.predict(img_fast)
     return Image.fromarray(img_hr)
+
+    
