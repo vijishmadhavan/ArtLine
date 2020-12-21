@@ -60,9 +60,9 @@ Virat Kohli, Indian cricketer
 
 ![Virat](https://i.imgur.com/jg76waU.jpg)
 
-Taylor Swift, American singer.
+Photo by Anastasiya Gepp from Pexels
 
-![Taylor](https://i.imgur.com/oZzJqw5.jpg)
+[Imgur](https://i.imgur.com/xWEUK7W.jpg)
 
 Interstellar
 
