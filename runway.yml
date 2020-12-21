@@ -5,4 +5,4 @@ spec:
   gpu: True
   cpu: False
 build_steps:
-  - pip install -r Model/requirements.txt
+  - pip install -r requirements.txt
