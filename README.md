@@ -35,6 +35,13 @@ bohemian rhapsody movie , Rami Malek American actor
 ![bohemian](https://i.imgur.com/od6IA08.jpg)
 
 
+
+Photo by Maxim from Pexels
+
+![Imgur](https://i.imgur.com/yksAvUq.jpg)
+
+
+
 Friends, TV show.
 
 ![Friends](https://i.imgur.com/x3vbPys.jpg)
@@ -44,9 +51,7 @@ Keanu Reeves, Canadian actor.
 
 ![Keanu](https://i.imgur.com/labkc8V.jpg)
 
-Photo by Anna Shvets from Pexels
 
-![Imgur](https://i.imgur.com/sRvyg8V.jpg)
 
 Hrithik Roshan
 
