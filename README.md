@@ -62,7 +62,7 @@ Virat Kohli, Indian cricketer
 
 Photo by Anastasiya Gepp from Pexels
 
-[Imgur](https://i.imgur.com/xWEUK7W.jpg)
+![Imgur](https://i.imgur.com/xWEUK7W.jpg)
 
 Interstellar
 
