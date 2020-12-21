@@ -1,7 +1,6 @@
 import runway
 import numpy as np
 from PIL import Image
-from infer import InferenceWrapper
 import argparse
 import torch
 from torchvision import transforms
@@ -71,4 +70,3 @@ def translate(learn, inputs):
     p,img_hr,b = learn.predict(img_fast)
     return Image.fromarray(img_hr)
 
-    
