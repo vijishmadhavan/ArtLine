@@ -62,13 +62,11 @@ def setup(opts):
 
 @runway.command('translate', inputs={'source_imgs': runway.image(description='input image to be translated'),}, outputs={'image': runway.image(description='output image containing the translated result')})
 def translate(learn, inputs):
-    # raise Exception(type(input['source_imgs']))
     img_t = T.ToTensor()(inputs['source_imgs'])
     img_fast = Image(img_t)
-    # raise Exception(type(img_fast))
     p,img_hr,b = learn.predict(img_fast)
-    # fastaiImage = Image(img_hr)
-    return transforms.ToPILImage()(img_hr).convert("RGB")
+    return np.uint8(np.clip(image2np(img_hr), 0, 1)*255)
+
 
 if __name__ == '__main__':
     runway.run(port=8889)
