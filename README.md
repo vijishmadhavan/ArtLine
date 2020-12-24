@@ -8,6 +8,7 @@ The main aim of the project is to create amazing line art portraits.
 
 
 **Model-(Smooth)**
+
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
 
 
