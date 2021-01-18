@@ -21,6 +21,10 @@ The main aim of the project is to create amazing line art portraits.
 
 [![](https://i.imgur.com/ittgYum.png)](https://www.youtube.com/watch?v=ULqlp6Btk2w&t=324s)
 
+# Exciting update
+
+* Check Toon-Me https://github.com/vijishmadhavan/Toon-Me, Toon Portraits.
+
 ## Highlights
 
 - [Example Images](#Example-Images)
@@ -88,7 +92,7 @@ Photo by Tim Savage from Pexels
 
 ## Cartoonize
 
-**Lets cartoonize the lineart portraits, its still in the making but have a look at some pretty pictures.**
+**Lets cartoonize the lineart portraits, Check Toon-Me https://github.com/vijishmadhavan/Toon-Me.**
 
 Skrillex , American DJ
 
