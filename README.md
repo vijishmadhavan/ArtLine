@@ -86,10 +86,6 @@ Beyoncé, American singer
 
 ![Beyoncé](https://i.imgur.com/QalvHKS.jpg)
 
-Photo by Tim Savage from Pexels
-
-![Imgur](https://i.imgur.com/NTi2GRA.jpg)
-
 ## Cartoonize
 
 **Lets cartoonize the lineart portraits, Check Toon-Me https://github.com/vijishmadhavan/Toon-Me.**
