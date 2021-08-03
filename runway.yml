@@ -1,0 +1,9 @@
+entrypoint: python runway_model.py
+python: 3.6
+cuda: 9.2
+spec:
+  gpu: True
+  cpu: False
+build_steps:
+  - pip install runway-python fastai==1.0.61 numpy==1.17.2 pandas==1.1.2 torch==1.6.0 torchvision===0.7.0
+

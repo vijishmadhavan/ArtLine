@@ -1,4 +1,7 @@
 # ArtLine
+
+[![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=akhaliq/ArtLine)
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 
@@ -177,8 +180,3 @@ Mail me @ vijishmadhavan@gmail.com
 ## License
 
 All code in this repository is under the MIT license as specified by the LICENSE file.
-
-
-
-
-
