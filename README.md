@@ -4,8 +4,6 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vijishmadhavan_ArtLine_repo)
-
 
 The main aim of the project is to create amazing line art portraits. 
 
