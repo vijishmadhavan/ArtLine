@@ -2,18 +2,13 @@
 
 **You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)**
 
-[![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=akhaliq/ArtLine)
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-
-
 The main aim of the project is to create amazing line art portraits. 
-
-
 
 # Exciting update
 
 * ControlNet + ArtLine for portraits. 
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
 
 ## Highlights
 
@@ -76,6 +71,8 @@ Beyoncé, American singer
 **Model-(Quality)**
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(AR).ipynb)
+
+[![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=akhaliq/ArtLine)
 
 
 **Click on the below image to know more about colab demo, credits to Bhavesh Bhatt for the amazing Youtube video.**
