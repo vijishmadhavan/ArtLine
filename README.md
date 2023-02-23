@@ -30,7 +30,7 @@ The model is designed to take in a portrait image and a corresponding written in
 
 ![model](https://i.imgur.com/QNCw4CN.jpg)
 
-![model](https://i.imgur.com/QNCw4CN.jpg)
+![model](https://i.imgur.com/jJuF3UN.jpg)
 
 ![model](https://i.imgur.com/zizgSTf.jpg)
 
