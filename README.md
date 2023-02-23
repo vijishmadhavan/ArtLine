@@ -9,22 +9,7 @@
 
 The main aim of the project is to create amazing line art portraits. 
 
-**Sounds Intresting,let's get to the pictures!!**
 
-
-**Model-(Smooth)**
-
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
-
-
-**Model-(Quality)**
-
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(AR).ipynb)
-
-
-**Click on the below image to know more about colab demo, credits to Bhavesh Bhatt for the amazing Youtube video.**
-
-[![](https://i.imgur.com/ittgYum.png)](https://www.youtube.com/watch?v=ULqlp6Btk2w&t=324s)
 
 # Exciting update
 
@@ -37,6 +22,17 @@ The main aim of the project is to create amazing line art portraits.
 - [Movie Poster created using ArtLine](#Movie-Poster-created-using-ArtLine)
 - [Technical Details](#Technical-Details)
 
+## ControlNet + ArtLine
+
+The model is designed to take in a portrait image and a corresponding written instruction, and then use that instruction to adjust the style of the image.
+
+![Shahrukh](https://i.imgur.com/WvKsYXj.jpg)
+
+![model](https://i.imgur.com/QNCw4CN.jpg)
+
+![model](https://i.imgur.com/QNCw4CN.jpg)
+
+![model](https://i.imgur.com/zizgSTf.jpg)
 
 ## Example Images
 
@@ -49,12 +45,6 @@ bohemian rhapsody movie , Rami Malek American actor
 Photo by Maxim from Pexels
 
 ![Imgur](https://i.imgur.com/yksAvUq.jpg)
-
-
-
-Friends, TV show.
-
-![Friends](https://i.imgur.com/x3vbPys.jpg)
 
 
 Keanu Reeves, Canadian actor.
@@ -77,17 +67,20 @@ Beyoncé, American singer
 
 ![Beyoncé](https://i.imgur.com/QalvHKS.jpg)
 
-## Cartoonize
 
-**Lets cartoonize the lineart portraits, Check Toon-Me https://github.com/vijishmadhavan/Toon-Me.**
+**Model-(Smooth)**
 
-Skrillex , American DJ
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
 
-![Imgur](https://i.imgur.com/BJW8beC.jpg)
 
-Tom Hanks, Actor
+**Model-(Quality)**
 
-![Imgur](https://i.imgur.com/hvkDTZR.jpg)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(AR).ipynb)
+
+
+**Click on the below image to know more about colab demo, credits to Bhavesh Bhatt for the amazing Youtube video.**
+
+[![](https://i.imgur.com/ittgYum.png)](https://www.youtube.com/watch?v=ULqlp6Btk2w&t=324s)
 
 
 ## Line Art
@@ -128,7 +121,7 @@ APDrawing data set consits of mostly close-up portraits so the model would strug
 
 ## Going Forward
 
-I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds(I'm creating a custom dataset to address this issue). Cartoonizing the image was never part of the project, but somehow it came up and it did okay!! Still lots to improve. Ill release the cartoonize model when it looks impressive enough to show off.
+I hope I was clear, going forward would like to improve the model further as it still struggles with random backgrounds(I'm creating a custom dataset to address this issue).
 
 *I will be constantly upgrading the project for the foreseeable future.*
 
