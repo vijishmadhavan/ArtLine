@@ -61,20 +61,6 @@ Keanu Reeves, Canadian actor.
 
 ![Keanu](https://i.imgur.com/labkc8V.jpg)
 
-
-
-Hrithik Roshan
-
-![Hrithik](https://i.imgur.com/U1sktwM.jpg)
-
-Alita: Battle Angel
-
-![Alita](https://i.imgur.com/3gcBKq2.jpg)
-
-Virat Kohli, Indian cricketer
-
-![Virat](https://i.imgur.com/jg76waU.jpg)
-
 Photo by Anastasiya Gepp from Pexels
 
 ![Imgur](https://i.imgur.com/xWEUK7W.jpg)
