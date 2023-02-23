@@ -8,7 +8,7 @@ The main aim of the project is to create amazing line art portraits.
 
 * ControlNet + ArtLine for portraits. 
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/ArtLine/blob/main/ControlNet_%2BArtLine_.ipynb)
 
 ## Highlights
 
