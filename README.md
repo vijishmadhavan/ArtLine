@@ -6,16 +6,10 @@ The main aim of the project is to create amazing line art portraits.
 
 # Exciting update
 
-* ControlNet + ArtLine for portraits. 
+** ControlNet + ArtLine for portraits, Try colab!!
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/ArtLine/blob/main/ControlNet_%2BArtLine_.ipynb)
 
-## Highlights
-
-- [Example Images](#Example-Images)
-- [Cartoonize](#Cartoonize)
-- [Movie Poster created using ArtLine](#Movie-Poster-created-using-ArtLine)
-- [Technical Details](#Technical-Details)
 
 ## ControlNet + ArtLine
 
@@ -28,6 +22,14 @@ The model is designed to take in a portrait image and a corresponding written in
 ![model](https://i.imgur.com/jJuF3UN.jpg)
 
 ![model](https://i.imgur.com/zizgSTf.jpg)
+
+## Highlights
+
+- [Example Images](#Example-Images)
+- [Cartoonize](#Cartoonize)
+- [Movie Poster created using ArtLine](#Movie-Poster-created-using-ArtLine)
+- [Technical Details](#Technical-Details)
+
 
 ## Example Images
 
