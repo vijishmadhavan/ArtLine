@@ -15,13 +15,15 @@ The main aim of the project is to create amazing line art portraits.
 
 The model is designed to take in a portrait image and a corresponding written instruction, and then use that instruction to adjust the style of the image.
 
-![Shahrukh](https://i.imgur.com/WvKsYXj.jpg)
 
 ![model](https://i.imgur.com/QNCw4CN.jpg)
 
 ![model](https://i.imgur.com/jJuF3UN.jpg)
 
 ![model](https://i.imgur.com/zizgSTf.jpg)
+
+![Shahrukh](https://i.imgur.com/WvKsYXj.jpg)
+
 
 ## Highlights
 
