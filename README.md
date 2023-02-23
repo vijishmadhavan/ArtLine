@@ -28,7 +28,7 @@ The main aim of the project is to create amazing line art portraits.
 
 # Exciting update
 
-* Check Toon-Me https://github.com/vijishmadhavan/Toon-Me, Toon Portraits.
+* ControlNet + ArtLine for portraits. 
 
 ## Highlights
 
